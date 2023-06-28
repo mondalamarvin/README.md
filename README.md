@@ -29,7 +29,7 @@ I'm Marvin, a software engineer that focus on web development.
 
 ---
 
-![Marvin' GitHub stats](https://github-readme-stats.vercel.app/api?username=mondalamarvin&count_private=true&show_icons=true&hide_border_true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondalamarvin&layout=compact&langs_count=7&hide_border_true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Marvin' GitHub stats](https://github-readme-stats.vercel.app/api?username=mondalamarvin&count_private=true&show_icons=true&hide_border_true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondalamarvin&layout=compact&langs_count=7&hide_border_true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mondalamarvin&style=for-the-badge&color=008080)
